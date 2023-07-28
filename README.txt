@@ -30,4 +30,4 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=izabelastepa.github.io&countColor=%23263759)
+[![Visits Badge](https://badges.pufler.dev/visits/izabelastepa/izabelastepa)]
