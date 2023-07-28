@@ -25,6 +25,7 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+![Visitor Count](https://profile-counter.glitch.me/{izabelastepa}/count.svg)
 
 	Other:
 		jQuery (jquery.com)
