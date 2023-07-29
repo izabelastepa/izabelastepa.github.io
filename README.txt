@@ -30,4 +30,4 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-[![Visits Badge](https://badges.pufler.dev/visits/izabelastepa/izabelastepa)]
+![Visitor Count](https://profile-counter.glitch.me/{izabelastepa}/count.svg)
